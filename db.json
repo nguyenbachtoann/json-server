@@ -1,0 +1,1975 @@
+{
+    "getAdminDiscoveryData": [
+        {
+          "teamname": "チームA",
+          "teamdata": {
+            "pcactive": "11:34",
+            "pcnonactive": "0:45",
+            "worktime": "10:00",
+            "webmeeting": "0:45",
+            "websearch": "1:01",
+            "mailchat": "3:02",
+            "others": "1:01",
+            "todayovertime": "3:02",
+            "monthovertime": "8:35",
+            "monthbehindtime": 1,
+            "weekavgpcactive": "02:25",
+            "weekavgpcnonactive": "01:45",
+            "weekavgworktime": "08:30",
+            "weekavgwebmeeting": "04:15",
+            "weekavgwebsearch": "03:10",
+            "weekavgmailchat": "05:55",
+            "weekavgothers": "06:40",
+            "weekavgtodayovertime": "00:45",
+            "predictionovertime": "01:30",
+            "lastmonthbehindtime": 1,
+            "members": [
+              {
+                "memberid": "1",
+                "membername": "ひろし",
+                "memberkana": "ヒロシ",
+                "memberpic": "https://robohash.org/incidunthicdeserunt.png?size=50x50&set=set1",
+                "memberdata": {
+                  "pcactive": "15:22",
+                  "pcnonactive": "0:45",
+                  "worktime": "10:00",
+                  "webmeeting": "0:45",
+                  "websearch": "1:01",
+                  "mailchat": "3:02",
+                  "others": "1:01",
+                  "todayovertime": "6:15",
+                  "monthovertime": "8:35",
+                  "monthbehindtime": 1,
+                  "weekavgpcactive": "02:25",
+                  "weekavgpcnonactive": "01:45",
+                  "weekavgworktime": "08:30",
+                  "weekavgwebmeeting": "04:15",
+                  "weekavgwebsearch": "03:10",
+                  "weekavgmailchat": "05:55",
+                  "weekavgothers": "06:40",
+                  "weekavgtodayovertime": "00:58",
+                  "predictionovertime": "01:30",
+                  "lastmonthbehindtime": 1
+                }
+              },
+              {
+                "memberid": "2",
+                "membername": "ゆき ",
+                "memberkana": "ユキ ",
+                "memberpic": "https://robohash.org/similiquetemporibusnulla.png?size=50x50&set=set1",
+                "memberdata": {
+                  "pcactive": "10:45",
+                  "pcnonactive": "0:45",
+                  "worktime": "10:00",
+                  "webmeeting": "0:45",
+                  "websearch": "1:01",
+                  "mailchat": "3:02",
+                  "others": "1:01",
+                  "todayovertime": "3:02",
+                  "monthovertime": "5:12",
+                  "monthbehindtime": 1,
+                  "weekavgpcactive": "02:25",
+                  "weekavgpcnonactive": "01:45",
+                  "weekavgworktime": "08:30",
+                  "weekavgwebmeeting": "04:15",
+                  "weekavgwebsearch": "03:10",
+                  "weekavgmailchat": "05:55",
+                  "weekavgothers": "06:40",
+                  "weekavgtodayovertime": "01:56",
+                  "predictionovertime": "01:30",
+                  "lastmonthbehindtime": 1
+                }
+              },
+              {
+                "memberid": "3",
+                "membername": "あきこ ",
+                "memberkana": "アキコ ",
+                "memberpic": "https://robohash.org/incidunthicdeserunt.png?size=50x50&set=set1",
+                "memberdata": {
+                  "pcactive": "11:23",
+                  "pcnonactive": "0:45",
+                  "worktime": "10:00",
+                  "webmeeting": "0:45",
+                  "websearch": "1:01",
+                  "mailchat": "2:34",
+                  "others": "1:01",
+                  "todayovertime": "3:02",
+                  "monthovertime": "8:35",
+                  "monthbehindtime": 1,
+                  "weekavgpcactive": "02:25",
+                  "weekavgpcnonactive": "01:45",
+                  "weekavgworktime": "08:30",
+                  "weekavgwebmeeting": "04:15",
+                  "weekavgwebsearch": "03:10",
+                  "weekavgmailchat": "05:55",
+                  "weekavgothers": "06:40",
+                  "weekavgtodayovertime": "01:15",
+                  "predictionovertime": "01:30",
+                  "lastmonthbehindtime": 1
+                }
+              }
+            ]
+          }
+        },
+        {
+          "teamname": "チームB",
+          "teamdata": {
+            "pcactive": "12:50",
+            "pcnonactive": "0:45",
+            "worktime": "10:00",
+            "webmeeting": "0:45",
+            "websearch": "1:01",
+            "mailchat": "3:02",
+            "others": "1:01",
+            "todayovertime": "3:02",
+            "monthovertime": "8:35",
+            "monthbehindtime": 1,
+            "weekavgpcactive": "02:25",
+            "weekavgpcnonactive": "01:45",
+            "weekavgworktime": "08:30",
+            "weekavgwebmeeting": "11:24",
+            "weekavgwebsearch": "03:10",
+            "weekavgmailchat": "05:55",
+            "weekavgothers": "06:40",
+            "weekavgtodayovertime": "00:45",
+            "predictionovertime": "01:30",
+            "lastmonthbehindtime": 3,
+            "members": [
+              {
+                "memberid": "4",
+                "membername": "たけし ",
+                "memberkana": "タケシ ",
+                "memberpic": "https://robohash.org/incidunthicdeserunt.png?size=50x50&set=set1",
+                "memberdata": {
+                  "pcactive": "08:55",
+                  "pcnonactive": "0:45",
+                  "worktime": "10:00",
+                  "webmeeting": "0:45",
+                  "websearch": "2:45",
+                  "mailchat": "3:02",
+                  "others": "1:01",
+                  "todayovertime": "3:02",
+                  "monthovertime": "8:35",
+                  "monthbehindtime": 1,
+                  "weekavgpcactive": "02:25",
+                  "weekavgpcnonactive": "01:45",
+                  "weekavgworktime": "5:36",
+                  "weekavgwebmeeting": "04:15",
+                  "weekavgwebsearch": "03:10",
+                  "weekavgmailchat": "05:55",
+                  "weekavgothers": "06:40",
+                  "weekavgtodayovertime": "00:45",
+                  "predictionovertime": "01:54",
+                  "lastmonthbehindtime": 1
+                }
+              },
+              {
+                "memberid": "5",
+                "membername": "あいこ ",
+                "memberkana": "アイコ ",
+                "memberpic": "https://robohash.org/similiquetemporibusnulla.png?size=50x50&set=set1",
+                "memberdata": {
+                  "pcactive": "12:22",
+                  "pcnonactive": "0:45",
+                  "worktime": "10:00",
+                  "webmeeting": "0:45",
+                  "websearch": "1:01",
+                  "mailchat": "3:02",
+                  "others": "1:01",
+                  "todayovertime": "05:12",
+                  "monthovertime": "8:35",
+                  "monthbehindtime": 1,
+                  "weekavgpcactive": "02:25",
+                  "weekavgpcnonactive": "01:45",
+                  "weekavgworktime": "08:30",
+                  "weekavgwebmeeting": "04:15",
+                  "weekavgwebsearch": "03:10",
+                  "weekavgmailchat": "05:55",
+                  "weekavgothers": "05:12",
+                  "weekavgtodayovertime": "00:45",
+                  "predictionovertime": "01:30",
+                  "lastmonthbehindtime": 1
+                }
+              },
+              {
+                "memberid": "6",
+                "membername": "けんじ",
+                "memberkana": "ケンジ ",
+                "memberpic": "https://robohash.org/similiquetemporibusnulla.png?size=50x50&set=set1",
+                "memberdata": {
+                  "pcactive": "12:34",
+                  "pcnonactive": "0:45",
+                  "worktime": "10:00",
+                  "webmeeting": "0:45",
+                  "websearch": "01:05",
+                  "mailchat": "3:02",
+                  "others": "1:01",
+                  "todayovertime": "3:02",
+                  "monthovertime": "8:35",
+                  "monthbehindtime": 1,
+                  "weekavgpcactive": "02:25",
+                  "weekavgpcnonactive": "01:45",
+                  "weekavgworktime": "03:12",
+                  "weekavgwebmeeting": "04:15",
+                  "weekavgwebsearch": "03:10",
+                  "weekavgmailchat": "05:55",
+                  "weekavgothers": "06:40",
+                  "weekavgtodayovertime": "00:45",
+                  "predictionovertime": "01:30",
+                  "lastmonthbehindtime": 1
+                }
+              }
+            ]
+          }
+        },
+        {
+          "teamname": "チームC",
+          "teamdata": {
+            "pcactive": "10:09",
+            "pcnonactive": "0:45",
+            "worktime": "10:00",
+            "webmeeting": "0:45",
+            "websearch": "1:01",
+            "mailchat": "3:02",
+            "others": "1:01",
+            "todayovertime": "3:02",
+            "monthovertime": "8:35",
+            "monthbehindtime": 2,
+            "weekavgpcactive": "02:25",
+            "weekavgpcnonactive": "01:45",
+            "weekavgworktime": "08:30",
+            "weekavgwebmeeting": "08:12",
+            "weekavgwebsearch": "03:10",
+            "weekavgmailchat": "05:55",
+            "weekavgothers": "06:40",
+            "weekavgtodayovertime": "00:45",
+            "predictionovertime": "01:30",
+            "lastmonthbehindtime": 1,
+            "members": [
+              {
+                "memberid": "7",
+                "membername": "さくら ",
+                "memberkana": "サクラ ",
+                "memberpic": "https://robohash.org/incidunthicdeserunt.png?size=50x50&set=set1",
+                "memberdata": {
+                  "pcactive": "10:35",
+                  "pcnonactive": "0:45",
+                  "worktime": "10:00",
+                  "webmeeting": "0:45",
+                  "websearch": "2:05",
+                  "mailchat": "3:02",
+                  "others": "1:01",
+                  "todayovertime": "3:02",
+                  "monthovertime": "8:35",
+                  "monthbehindtime": 1,
+                  "weekavgpcactive": "02:25",
+                  "weekavgpcnonactive": "01:45",
+                  "weekavgworktime": "08:32",
+                  "weekavgwebmeeting": "04:15",
+                  "weekavgwebsearch": "03:10",
+                  "weekavgmailchat": "05:55",
+                  "weekavgothers": "06:40",
+                  "weekavgtodayovertime": "00:45",
+                  "predictionovertime": "01:30",
+                  "lastmonthbehindtime": 1
+                }
+              },
+              {
+                "memberid": "8",
+                "membername": "しんじ",
+                "memberkana": "シンジ ",
+                "memberpic": "https://robohash.org/incidunthicdeserunt.png?size=50x50&set=set1",
+                "memberdata": {
+                  "pcactive": "10:39",
+                  "pcnonactive": "0:45",
+                  "worktime": "10:00",
+                  "webmeeting": "0:45",
+                  "websearch": "1:01",
+                  "mailchat": "3:02",
+                  "others": "1:01",
+                  "todayovertime": "3:02",
+                  "monthovertime": "8:12",
+                  "monthbehindtime": 1,
+                  "weekavgpcactive": "02:25",
+                  "weekavgpcnonactive": "01:45",
+                  "weekavgworktime": "08:30",
+                  "weekavgwebmeeting": "04:15",
+                  "weekavgwebsearch": "03:10",
+                  "weekavgmailchat": "05:55",
+                  "weekavgothers": "05:21",
+                  "weekavgtodayovertime": "00:45",
+                  "predictionovertime": "01:30",
+                  "lastmonthbehindtime": 1
+                }
+              },
+              {
+                "memberid": "9",
+                "membername": "えみこ ",
+                "memberkana": "エミコ ",
+                "memberpic": "https://robohash.org/similiquetemporibusnulla.png?size=50x50&set=set1",
+                "memberdata": {
+                  "pcactive": "11:03",
+                  "pcnonactive": "0:45",
+                  "worktime": "10:00",
+                  "webmeeting": "0:45",
+                  "websearch": "1:56",
+                  "mailchat": "3:02",
+                  "others": "1:01",
+                  "todayovertime": "3:02",
+                  "monthovertime": "8:35",
+                  "monthbehindtime": 1,
+                  "weekavgpcactive": "02:25",
+                  "weekavgpcnonactive": "01:45",
+                  "weekavgworktime": "08:30",
+                  "weekavgwebmeeting": "04:15",
+                  "weekavgwebsearch": "03:10",
+                  "weekavgmailchat": "06:02",
+                  "weekavgothers": "06:40",
+                  "weekavgtodayovertime": "00:45",
+                  "predictionovertime": "01:30",
+                  "lastmonthbehindtime": 1
+                }
+              }
+            ]
+          }
+        },
+        {
+          "teamname": "チームD",
+          "teamdata": {
+            "pcactive": "05:11",
+            "pcnonactive": "0:45",
+            "worktime": "10:00",
+            "webmeeting": "0:45",
+            "websearch": "1:01",
+            "mailchat": "3:02",
+            "others": "1:01",
+            "todayovertime": "3:02",
+            "monthovertime": "8:35",
+            "monthbehindtime": 1,
+            "weekavgpcactive": "12:23",
+            "weekavgpcnonactive": "01:45",
+            "weekavgworktime": "08:30",
+            "weekavgwebmeeting": "04:15",
+            "weekavgwebsearch": "03:10",
+            "weekavgmailchat": "05:55",
+            "weekavgothers": "06:40",
+            "weekavgtodayovertime": "00:45",
+            "predictionovertime": "01:30",
+            "lastmonthbehindtime": 1,
+            "members": [
+              {
+                "memberid": "10",
+                "membername": "はるき",
+                "memberkana": "ノウマエミコ エイタ",
+                "memberpic": "https://robohash.org/similiquetemporibusnulla.png?size=50x50&set=set1",
+                "memberdata": {
+                  "pcactive": "09:05",
+                  "pcnonactive": "0:45",
+                  "worktime": "10:00",
+                  "webmeeting": "0:45",
+                  "websearch": "02:04",
+                  "mailchat": "3:02",
+                  "others": "1:01",
+                  "todayovertime": "3:02",
+                  "monthovertime": "8:35",
+                  "monthbehindtime": 1,
+                  "weekavgpcactive": "02:25",
+                  "weekavgpcnonactive": "01:45",
+                  "weekavgworktime": "08:30",
+                  "weekavgwebmeeting": "04:15",
+                  "weekavgwebsearch": "03:10",
+                  "weekavgmailchat": "05:55",
+                  "weekavgothers": "05:49",
+                  "weekavgtodayovertime": "00:45",
+                  "predictionovertime": "01:30",
+                  "lastmonthbehindtime": 1
+                }
+              },
+              {
+                "memberid": "11",
+                "membername": "はるき",
+                "memberkana": "ハルキ ",
+                "memberpic": "https://robohash.org/incidunthicdeserunt.png?size=50x50&set=set1",
+                "memberdata": {
+                  "pcactive": "12:12",
+                  "pcnonactive": "0:45",
+                  "worktime": "10:00",
+                  "webmeeting": "0:45",
+                  "websearch": "1:01",
+                  "mailchat": "3:02",
+                  "others": "1:01",
+                  "todayovertime": "3:02",
+                  "monthovertime": "08:05",
+                  "monthbehindtime": 1,
+                  "weekavgpcactive": "02:25",
+                  "weekavgpcnonactive": "01:45",
+                  "weekavgworktime": "08:30",
+                  "weekavgwebmeeting": "04:15",
+                  "weekavgwebsearch": "03:10",
+                  "weekavgmailchat": "05:55",
+                  "weekavgothers": "06:40",
+                  "weekavgtodayovertime": "01:05",
+                  "predictionovertime": "01:30",
+                  "lastmonthbehindtime": 1
+                }
+              },
+              {
+                "memberid": "12",
+                "membername": "なつみ",
+                "memberkana": "ナツミ",
+                "memberpic": "https://robohash.org/incidunthicdeserunt.png?size=50x50&set=set1",
+                "memberdata": {
+                  "pcactive": "10:59",
+                  "pcnonactive": "0:45",
+                  "worktime": "10:00",
+                  "webmeeting": "0:45",
+                  "websearch": "1:01",
+                  "mailchat": "3:02",
+                  "others": "1:01",
+                  "todayovertime": "3:02",
+                  "monthovertime": "08:22",
+                  "monthbehindtime": 1,
+                  "weekavgpcactive": "02:25",
+                  "weekavgpcnonactive": "01:45",
+                  "weekavgworktime": "08:30",
+                  "weekavgwebmeeting": "04:15",
+                  "weekavgwebsearch": "03:10",
+                  "weekavgmailchat": "05:55",
+                  "weekavgothers": "06:40",
+                  "weekavgtodayovertime": "00:45",
+                  "predictionovertime": "00:56",
+                  "lastmonthbehindtime": 1
+                }
+              }
+            ]
+          }
+        }
+      ],
+    "getAdminMouseKeyboardData": [
+        {
+            "teamname": "チームA",
+            "teamdata": {
+                "member": [
+                    {
+                        "membername": "脳魔X太",
+                        "memberkana": "ノウマエイタ",
+                        "amountdata": [
+                            {
+                                "time_range": 5,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 6,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 7,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 8,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 9,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 10,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 11,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 12,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 13,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 14,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 15,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 16,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 17,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 18,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 19,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 20,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 21,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 22,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 23,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 24,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 25,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 26,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 27,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 28,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 29,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "membername": "脳魔Y太",
+                        "memberkana": "ノウマエイタ",
+                        "amountdata": [
+                            {
+                                "time_range": 5,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 6,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 7,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 8,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 9,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 10,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 11,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 12,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 13,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 14,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 15,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 16,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 17,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 18,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 19,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 20,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 21,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 22,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 23,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 24,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 25,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 26,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 27,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 28,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 29,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "teamname": "チームB",
+            "teamdata": {
+                "member": [
+                    {
+                        "membername": "脳魔G太",
+                        "memberkana": "ノウマエイタ",
+                        "amountdata": [
+                            {
+                                "time_range": 5,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 6,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 7,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 8,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 9,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 10,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 11,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 12,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 13,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 14,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 15,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 16,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 17,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 18,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 19,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 20,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 21,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 22,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 23,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 24,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 25,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 26,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 27,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 28,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 29,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "membername": "脳魔H太",
+                        "memberkana": "ノウマエイタ",
+                        "amountdata": [
+                            {
+                                "time_range": 5,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 6,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 7,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 8,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 9,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 10,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 11,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 12,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 13,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 14,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 15,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 16,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 17,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 18,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 19,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 20,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 21,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 22,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 23,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 24,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 25,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 26,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 27,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 28,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            },
+                            {
+                                "time_range": 29,
+                                "detaildata": {
+                                    "repeat": 6,
+                                    "backspace": 11,
+                                    "cancel": 3,
+                                    "mouse": 9,
+                                    "keyboard": 16,
+                                    "others": 4,
+                                    "shortcut": 8
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "getAdminScheduleData": [
+        {
+            "teamname": "チームA",
+            "teamdata": {
+                "members": [
+                    {
+                        "membername": "メンバー1",
+                        "memberkana": "メンバーカナ1",
+                        "scheduledata": {
+                            "subject": "サブジェクト1",
+                            "start": "11:00",
+                            "end": "12:00",
+                            "timezone": "Asia/Tokyo"
+                        }
+                    },
+                    {
+                        "membername": "メンバー2",
+                        "memberkana": "メンバーカナ2",
+                        "scheduledata": {
+                            "subject": "サブジェクト2",
+                            "start": "11:00",
+                            "end": "12:00",
+                            "timezone": "Asia/Tokyo"
+                        }
+                    },
+                    {
+                        "membername": "メンバー3",
+                        "memberkana": "メンバーカナ3",
+                        "scheduledata": {
+                            "subject": "サブジェクト3",
+                            "start": "11:00",
+                            "end": "12:00",
+                            "timezone": "Asia/Tokyo"
+                        }
+                    },
+                    {
+                        "membername": "メンバー4",
+                        "memberkana": "メンバーカナ4",
+                        "scheduledata": {
+                            "subject": "サブジェクト4",
+                            "start": "11:00",
+                            "end": "12:00",
+                            "timezone": "Asia/Tokyo"
+                        }
+                    },
+                    {
+                        "membername": "メンバー5",
+                        "memberkana": "メンバーカナ5",
+                        "scheduledata": {
+                            "subject": "サブジェクト5",
+                            "start": "11:00",
+                            "end": "12:00",
+                            "timezone": "Asia/Tokyo"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "teamname": "チームB",
+            "teamdata": {
+                "members": [
+                    {
+                        "membername": "メンバー6",
+                        "memberkana": "メンバーカナ6",
+                        "scheduledata": {
+                            "subject": "サブジェクト6",
+                            "start": "11:00",
+                            "end": "12:00",
+                            "timezone": "Asia/Tokyo"
+                        }
+                    },
+                    {
+                        "membername": "メンバー7",
+                        "memberkana": "メンバーカナ7",
+                        "scheduledata": {
+                            "subject": "サブジェクト7",
+                            "start": "11:00",
+                            "end": "12:00",
+                            "timezone": "Asia/Tokyo"
+                        }
+                    },
+                    {
+                        "membername": "メンバー8",
+                        "memberkana": "メンバーカナ8",
+                        "scheduledata": {
+                            "subject": "サブジェクト8",
+                            "start": "11:00",
+                            "end": "12:00",
+                            "timezone": "Asia/Tokyo"
+                        }
+                    },
+                    {
+                        "membername": "メンバー9",
+                        "memberkana": "メンバーカナ9",
+                        "scheduledata": {
+                            "subject": "サブジェクト9",
+                            "start": "11:00",
+                            "end": "12:00",
+                            "timezone": "Asia/Tokyo"
+                        }
+                    },
+                    {
+                        "membername": "メンバー10",
+                        "memberkana": "メンバーカナ10",
+                        "scheduledata": {
+                            "subject": "サブジェクト10",
+                            "start": "11:00",
+                            "end": "12:00",
+                            "timezone": "Asia/Tokyo"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "teamname": "チームC",
+            "teamdata": {
+                "members": [
+                    {
+                        "membername": "メンバー11",
+                        "memberkana": "メンバーカナ11",
+                        "scheduledata": {
+                            "subject": "サブジェクト11",
+                            "start": "11:00",
+                            "end": "12:00",
+                            "timezone": "Asia/Tokyo"
+                        }
+                    },
+                    {
+                        "membername": "メンバー12",
+                        "memberkana": "メンバーカナ12",
+                        "scheduledata": {
+                            "subject": "サブジェクト12",
+                            "start": "11:00",
+                            "end": "12:00",
+                            "timezone": "Asia/Tokyo"
+                        }
+                    },
+                    {
+                        "membername": "メンバー13",
+                        "memberkana": "メンバーカナ13",
+                        "scheduledata": {
+                            "subject": "サブジェクト13",
+                            "start": "11:00",
+                            "end": "12:00",
+                            "timezone": "Asia/Tokyo"
+                        }
+                    },
+                    {
+                        "membername": "メンバー14",
+                        "memberkana": "メンバーカナ14",
+                        "scheduledata": {
+                            "subject": "サブジェクト14",
+                            "start": "11:00",
+                            "end": "12:00",
+                            "timezone": "Asia/Tokyo"
+                        }
+                    },
+                    {
+                        "membername": "メンバー15",
+                        "memberkana": "メンバーカナ15",
+                        "scheduledata": {
+                            "subject": "サブジェクト15",
+                            "start": "11:00",
+                            "end": "12:00",
+                            "timezone": "Asia/Tokyo"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "teamname": "チームD",
+            "teamdata": {
+                "members": [
+                    {
+                        "membername": "メンバー16",
+                        "memberkana": "メンバーカナ16",
+                        "scheduledata": {
+                            "subject": "サブジェクト16",
+                            "start": "11:00",
+                            "end": "12:00",
+                            "timezone": "Asia/Tokyo"
+                        }
+                    },
+                    {
+                        "membername": "メンバー17",
+                        "memberkana": "メンバーカナ17",
+                        "scheduledata": {
+                            "subject": "サブジェクト17",
+                            "start": "11:00",
+                            "end": "12:00",
+                            "timezone": "Asia/Tokyo"
+                        }
+                    },
+                    {
+                        "membername": "メンバー18",
+                        "memberkana": "メンバーカナ18",
+                        "scheduledata": {
+                            "subject": "サブジェクト18",
+                            "start": "11:00",
+                            "end": "12:00",
+                            "timezone": "Asia/Tokyo"
+                        }
+                    },
+                    {
+                        "membername": "メンバー19",
+                        "memberkana": "メンバーカナ19",
+                        "scheduledata": {
+                            "subject": "サブジェクト19",
+                            "start": "11:00",
+                            "end": "12:00",
+                            "timezone": "Asia/Tokyo"
+                        }
+                    },
+                    {
+                        "membername": "メンバー20",
+                        "memberkana": "メンバーカナ20",
+                        "scheduledata": {
+                            "subject": "サブジェクト20",
+                            "start": "11:00",
+                            "end": "12:00",
+                            "timezone": "Asia/Tokyo"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "teamname": "チームE",
+            "teamdata": {
+                "members": [
+                    {
+                        "membername": "メンバー21",
+                        "memberkana": "メンバーカナ21",
+                        "scheduledata": {
+                            "subject": "サブジェクト21",
+                            "start": "11:00",
+                            "end": "12:00",
+                            "timezone": "Asia/Tokyo"
+                        }
+                    },
+                    {
+                        "membername": "メンバー22",
+                        "memberkana": "メンバーカナ22",
+                        "scheduledata": {
+                            "subject": "サブジェクト22",
+                            "start": "11:00",
+                            "end": "12:00",
+                            "timezone": "Asia/Tokyo"
+                        }
+                    },
+                    {
+                        "membername": "メンバー23",
+                        "memberkana": "メンバーカナ23",
+                        "scheduledata": {
+                            "subject": "サブジェクト23",
+                            "start": "11:00",
+                            "end": "12:00",
+                            "timezone": "Asia/Tokyo"
+                        }
+                    },
+                    {
+                        "membername": "メンバー24",
+                        "memberkana": "メンバーカナ24",
+                        "scheduledata": {
+                            "subject": "サブジェクト24",
+                            "start": "11:00",
+                            "end": "12:00",
+                            "timezone": "Asia/Tokyo"
+                        }
+                    },
+                    {
+                        "membername": "メンバー25",
+                        "memberkana": "メンバーカナ25",
+                        "scheduledata": {
+                            "subject": "サブジェクト25",
+                            "start": "11:00",
+                            "end": "12:00",
+                            "timezone": "Asia/Tokyo"
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
